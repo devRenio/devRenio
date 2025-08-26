@@ -1,0 +1,23 @@
+name: DEBUG - Check README file
+
+on:
+  workflow_dispatch: # 수동으로만 실행
+
+jobs:
+  debug-readme:
+    name: Check README file format
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Diagnostics on README.md
+        id: diagnostics # 스텝에 ID 부여
+        run: |
+          echo "--- 1. 파일 타입 및 인코딩 확인 ---"
+          file README.md
+          echo ""
+          echo "--- 2. cat -A 명령으로 보이지 않는 문자 확인 ---"
+          # cat -A 는 줄바꿈($), 탭(^I) 등 보이지 않는 문자를 모두 표시합니다.
+          cat -A README.md | grep -i "BLOG-POST-LIST" || echo "!!! cat -A / grep 조합으로 태그를 찾지 못함 !!!"
+          echo ""
