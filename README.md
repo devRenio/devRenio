@@ -10,13 +10,14 @@
   <img src="https://komarev.com/ghpvc/?username=devRenio&style=for-the-badge&color=brightgreen" alt="profile visitor count">
 </p>
 
-</div> ---
+</div>
+
+---
 
 ### 🌱 What I'm Learning
 
 <div align="center">
-  
-**💻 Technologies I'm familiar with** <br><br>
+  <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
