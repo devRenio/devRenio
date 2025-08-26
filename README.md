@@ -46,7 +46,6 @@
 | :---: |
 | [![Renio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devRenio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRenio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
-[![GitHub Streak](https://streak-stats.demolab.com?user=devRenio&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -56,14 +55,22 @@
 
 ---
 
-### 📌 Featured Project
+### ✨ Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devRenio&repo=Bible-verse-memorization&theme=radical)](https://github.com/devRenio/Bible-verse-memorization)
+[![devRenio's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=devRenio&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+<a href="https://github.com/devRenio/devRenio.github.io" style="text-decoration:none;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devRenio&repo=devRenio.github.io&theme=radical" />
+</a>
+<a href="https://github.com/devRenio/Bible-verse-memorization" style="text-decoration:none;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devRenio&repo=Bible-verse-memorization&theme=radical" />
+</a>
 
 </div>
-
 ---
 
 ### 📝 Recent Blog Posts
