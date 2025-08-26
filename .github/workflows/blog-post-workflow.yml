@@ -2,7 +2,8 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,9 +11,11 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Fetch and update blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://devrenio.github.io/feed.xml"
           comment_tag_name: "BLOG-POST-LIST"
