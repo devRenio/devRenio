@@ -13,13 +13,7 @@
 
 ---
 
-### 🌱 About Me & What I'm Learning
-
--   현재 **SQLD 자격증 취득**을 목표로 데이터베이스를 깊이 있게 학습하고 있습니다.
--   **중·대규모 풀스택 프로젝트**에 참여하여 실질적인 개발 협업 경험을 쌓는ことに興味があります。
--   배우고 기록하는 것을 좋아하여 꾸준히 **기술 블로그**를 운영하고 있습니다.
-
-<br>
+### What I'm Learning
 
 <div align="center">
   
@@ -48,6 +42,14 @@
 
 ---
 
+### 🐍 My Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/devRenio/devRenio/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
+</div>
+
+---
+
 ### ✨ Featured Projects
 
 <div align="center">
@@ -63,13 +65,3 @@
 </div>
 
 ---
-
-### 📝 Recent Blog Posts
-
----
-
-### 🐍 My Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/devRenio/devRenio/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
-</div>
