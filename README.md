@@ -4,12 +4,9 @@
 ### A passionate student developer from South Korea 🇰🇷
 
 <p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevRenio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
-</p>
-
-<p>
   <a href="https://devrenio.github.io/blog" target="_blank"><img src="https://img.shields.io/badge/Blog-434343?style=for-the-badge&logo=velog&logoColor=white"></a>
   <a href="mailto:eunho9684@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevRenio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
 </p>
 
 </div>
@@ -18,59 +15,51 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🌱 About Me & What I'm Learning
 
-- 🔭 I’m currently focused on **SQLD 자격증 취득을 위한 학습**.
-- 👯 I’m looking to collaborate on **중,대규모 풀스택 프로젝트**.
-- 🤔 Ask me about anything, I am happy to help.
+-   현재 **SQLD 자격증 취득**을 목표로 데이터베이스를 깊이 있게 학습하고 있습니다.
+-   **중·대규모 풀스택 프로젝트**에 참여하여 실질적인 개발 협업 경험을 쌓는ことに興味があります。
+-   배우고 기록하는 것을 좋아하여 꾸준히 **기술 블로그**를 운영하고 있습니다.
 
----
-
-### 🛠️ Tech Stacks
+<br>
 
 <div align="center">
-
-**- Main Languages -** <br>
+  
+**💻 Technologies I'm familiar with** <br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<br><br>
-
-**- Frontend -** <br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-<br><br>
-
-**- Mobile App -** <br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-<br><br>
-
-**- Database -** <br>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
-<br><br>
-
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Activity
 
 <div align="center">
 
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| [![Renio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devRenio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRenio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
-| <br> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devRenio&theme=radical)](https://git.io/streak-stats) |
+| GitHub Stats & Languages |
+| :---: |
+| [![Renio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devRenio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRenio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devRenio&theme=radical)](https://git.io/streak-stats) |
 
+</div>
+
+<div align="center">
+  <img src="https://github.com/devRenio/devRenio/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
 </div>
 
 ---
 
-### ✨ Pinned Projects
+### 📌 Featured Project
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devRenio&repo=devRenio.github.io&theme=radical)](https://github.com/devRenio/devRenio.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devRenio&repo=Bible-verse-memorization&theme=radical)](https://github.com/devRenio/Bible-verse-memorization)
 
 </div>
@@ -78,11 +67,3 @@
 ---
 
 ### 📝 Recent Blog Posts
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/devRenio/devRenio/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
-</div>
