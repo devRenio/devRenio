@@ -1,0 +1,6 @@
+- uses: gautamkrishnar/blog-post-workflow@v1
+  with:
+    feed_list: "https://devrenio.github.io/feed.xml"
+    comment_tag_name: "BLOG-POST-LIST"
+    readme_path: "./README.md"
+    max_post_count: 5
