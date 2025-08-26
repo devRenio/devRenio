@@ -6,7 +6,7 @@
 <p>
   <a href="https://devrenio.github.io/blog" target="_blank"><img src="https://img.shields.io/badge/Blog-434343?style=for-the-badge&logo=velog&logoColor=white"></a>
   <a href="mailto:eunho9684@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevRenio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
+  <img src="https://komarev.com/ghpvc/?username=devRenio&style=for-the-badge&color=brightgreen" alt="profile visitor count">
 </p>
 
 </div>
@@ -46,7 +46,7 @@
 | :---: |
 | [![Renio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devRenio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRenio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devRenio&theme=radical)](https://git.io/streak-stats) |
+[![GitHub Streak](https://streak-stats.demolab.com?user=devRenio&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
