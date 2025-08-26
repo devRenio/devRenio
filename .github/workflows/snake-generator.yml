@@ -1,0 +1,35 @@
+# GitHub Action to generate a snake animation from GitHub contribution graph
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # 매 12시간마다 실행됩니다.
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake animation
+        uses: Platane/snk@v2
+        with:
+          # GitHub 사용자 이름을 여기에 입력합니다.
+          github_user_name: devRenio
+
+          # 생성된 파일을 저장할 경로와 파일명을 지정합니다.
+          # README.md에 있는 이미지 경로와 일치해야 합니다.
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist
+          git commit -m "Generate contribution snake" || exit 0
+          git push
