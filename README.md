@@ -1,6 +1,7 @@
 <div align="center">
-  
-# 👋 Hi, I'm Renio! 
+
+# 👋 Hi, I'm Renio!
+
 ### A passionate student developer from South Korea 🇰🇷
 
 <p>
@@ -9,11 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=devRenio&style=for-the-badge&color=brightgreen" alt="profile visitor count">
 </p>
 
-</div>
+</div> ---
 
----
-
-### What I'm Learning
+### 🌱 What I'm Learning
 
 <div align="center">
   
@@ -42,18 +41,6 @@
 
 ---
 
-### 🐍 My Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/devRenio/devRenio/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
-</div>
-
----
-
-### 📝 Recent Blog Posts
-
----
-
 ### ✨ Featured Projects
 
 <div align="center">
@@ -69,3 +56,13 @@
 </div>
 
 ---
+
+### 📝 Recent Blog Posts
+
+---
+
+### 🐍 My Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/devRenio/devRenio/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
+</div>
