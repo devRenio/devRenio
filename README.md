@@ -11,8 +11,6 @@
 
 </div>
 
-<br>
-
 ---
 
 ### 🌱 About Me & What I'm Learning
@@ -38,19 +36,14 @@
 
 ---
 
-### 📊 My GitHub Activity
+### 📊 My GitHub Stats
 
 <div align="center">
 
-| GitHub Stats & Languages |
-| :---: |
-| [![Renio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devRenio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRenio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| [![Renio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devRenio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRenio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 
-</div>
-
-<div align="center">
-  <img src="https://github.com/devRenio/devRenio/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
 </div>
 
 ---
@@ -58,9 +51,6 @@
 ### ✨ Featured Projects
 
 <div align="center">
-
-[![devRenio's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=devRenio&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br>
 
 <a href="https://github.com/devRenio/devRenio.github.io" style="text-decoration:none;">
@@ -71,6 +61,15 @@
 </a>
 
 </div>
+
 ---
 
 ### 📝 Recent Blog Posts
+
+---
+
+### 🐍 My Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/devRenio/devRenio/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
+</div>
