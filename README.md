@@ -29,6 +29,26 @@
 
 ---
 
+### 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [4.5 Top N 쿼리](https://devrenio.github.io//blog/posts/25-08-26-TIL)
+- [4.4 윈도우함수](https://devrenio.github.io//blog/posts/25-08-13-TIL)
+- [4.3 그룹함수](https://devrenio.github.io//blog/posts/25-08-12-TIL)
+- [4.2 집합연산자](https://devrenio.github.io//blog/posts/25-08-11-TIL)
+- [4.1 서브쿼리](https://devrenio.github.io//blog/posts/25-08-10-TIL)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🐍 My Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/devRenio/devRenio/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
+</div>
+
+---
+
 ### 📊 My GitHub Stats
 
 <div align="center">
@@ -53,24 +73,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devRenio&repo=Bible-verse-memorization&theme=radical" />
 </a>
 
-</div>
-
----
-
-### 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [4.5 Top N 쿼리](https://devrenio.github.io//blog/posts/25-08-26-TIL)
-- [4.4 윈도우함수](https://devrenio.github.io//blog/posts/25-08-13-TIL)
-- [4.3 그룹함수](https://devrenio.github.io//blog/posts/25-08-12-TIL)
-- [4.2 집합연산자](https://devrenio.github.io//blog/posts/25-08-11-TIL)
-- [4.1 서브쿼리](https://devrenio.github.io//blog/posts/25-08-10-TIL)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🐍 My Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/devRenio/devRenio/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
 </div>
