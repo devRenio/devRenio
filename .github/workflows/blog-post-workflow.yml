@@ -2,6 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
+    # Runs every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -10,20 +11,8 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      # 1. 체크아웃 시 줄바꿈 형식을 Linux 표준(LF)으로 강제 변환합니다.
-      - name: Checkout repository with normalized line endings
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          autocrlf: input
-
-      # 2. README 파일의 인코딩과 내용을 로그에 직접 출력하여 확인합니다.
-      - name: Check file encoding and content
-        run: |
-          echo "--- Checking README.md encoding and content ---"
-          file README.md
-          echo "--- Displaying README.md content where tags should be ---"
-          grep -C 3 "BLOG-POST-LIST" README.md || echo "TAGS NOT FOUND BY GREP"
-          echo "--- End of check ---"
 
       - name: Fetch and update blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
