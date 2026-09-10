@@ -1,46 +1,19 @@
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7EE787&center=false&vCenter=true&width=620&height=40&lines=%24+whoami;renio+%E2%80%94+student+developer%2C+KR;building+things+%2F+breaking+things+%2F+learning+in+public)](https://github.com/devRenio)
+# Renio
 
-```javascript
-const renio = {
-  role: "student developer",
-  location: "South Korea",
-  currently: ["Python", "C", "Flutter"],
-  stack: ["HTML", "CSS", "JavaScript", "SQLite"],
-  building: ["devrenio.github.io", "Bible-verse-memorization"],
-  links: {
-    blog: "https://devrenio.github.io/blog",
-    email: "eunho9684@gmail.com",
-  },
-};
-```
+Student developer in South Korea.
+I build small apps and tools, then write about what I learned.
 
-`$ ls ~/skills`
+## Projects
 
-[![skills](https://skillicons.dev/icons?i=python,c,flutter,html,css,js,sqlite)](https://skillicons.dev)
+**[Bible verse memorization](https://github.com/devRenio/Bible-verse-memorization)**  
+Flutter app for practicing scripture from memory.
 
-`$ ls ~/projects`
+**[Personal site](https://github.com/devRenio/devRenio.github.io)**  
+Notes and posts at [devrenio.github.io](https://devrenio.github.io/blog).
 
-<a href="https://github.com/devRenio/devRenio.github.io">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=devRenio&repo=devRenio.github.io&theme=github_dark&hide_border=true" alt="devRenio.github.io" />
-</a>
-<a href="https://github.com/devRenio/Bible-verse-memorization">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=devRenio&repo=Bible-verse-memorization&theme=github_dark&hide_border=true" alt="Bible-verse-memorization" />
-</a>
+**[Contest Crawler](https://github.com/devRenio/Contest-Crawler)**  
+Crawler that collects contest listings.
 
-`$ git log --graph`
-
-<img src="https://github.com/devRenio/devRenio/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-
-`$ gh stats`
-
-<img src="https://github-readme-stats.shion.dev/api?username=devRenio&show_icons=true&theme=github_dark&hide_border=true" alt="Renio's GitHub stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devRenio&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
-
-`$ cat ~/writing`
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
+## Contact
 
 [blog](https://devrenio.github.io/blog) · [email](mailto:eunho9684@gmail.com)
