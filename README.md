@@ -1,65 +1,43 @@
-<div align="center">
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7EE787&center=false&vCenter=true&width=620&height=40&lines=%24+whoami;renio+%E2%80%94+student+developer%2C+KR;building+things+%2F+breaking+things+%2F+learning+in+public)](https://github.com/devRenio)
 
-# 👋 Hi, I'm Renio!
+```javascript
+const renio = {
+  role: "student developer",
+  location: "South Korea",
+  currently: ["Python", "C", "Flutter"],
+  stack: ["HTML", "CSS", "JavaScript", "SQLite"],
+  building: ["devrenio.github.io", "Bible-verse-memorization"],
+  links: {
+    blog: "https://devrenio.github.io/blog",
+    email: "eunho9684@gmail.com",
+  },
+};
+```
 
-### A passionate student developer from South Korea 🇰🇷
+`$ ls ~/skills`
 
-<p>
-  <a href="https://devrenio.github.io/blog" target="_blank"><img src="https://img.shields.io/badge/Blog-434343?style=for-the-badge&logo=velog&logoColor=white"></a>
-  <a href="mailto:eunho9684@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=devRenio&style=for-the-badge&color=brightgreen" alt="profile visitor count">
-</p>
+[![skills](https://skillicons.dev/icons?i=python,c,flutter,html,css,js,sqlite)](https://skillicons.dev)
 
-</div>
+`$ ls ~/projects`
 
----
+[![devRenio.github.io](https://github-readme-stats.vercel.app/api/pin/?username=devRenio&repo=devRenio.github.io&theme=github_dark&hide_border=true)](https://github.com/devRenio/devRenio.github.io)
+[![Bible-verse-memorization](https://github-readme-stats.vercel.app/api/pin/?username=devRenio&repo=Bible-verse-memorization&theme=github_dark&hide_border=true)](https://github.com/devRenio/Bible-verse-memorization)
 
-### 🌱 What I'm Learning
+`$ git log --graph`
 
-<div align="center">
-  <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-</div>
+![contribution snake](https://raw.githubusercontent.com/devRenio/devRenio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![contribution snake](https://raw.githubusercontent.com/devRenio/devRenio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
----
+`$ gh stats`
 
-### 🐍 My Contribution Snake
+![Renio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devRenio&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRenio&layout=compact&theme=github_dark&hide_border=true)
 
-<div align="center">
-  <img src="https://github.com/devRenio/devRenio/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
-</div>
+`$ cat ~/writing`
 
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-
-|                                                                               GitHub Stats                                                                                |                                                                              Top Languages                                                                               |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![Renio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devRenio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRenio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
-
-</div>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-### ✨ Featured Projects
-
-<div align="center">
-<br>
-
-<a href="https://github.com/devRenio/devRenio.github.io" style="text-decoration:none;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devRenio&repo=devRenio.github.io&theme=radical" />
-</a>
-<a href="https://github.com/devRenio/Bible-verse-memorization" style="text-decoration:none;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devRenio&repo=Bible-verse-memorization&theme=radical" />
-</a>
-
-</div>
+[blog](https://devrenio.github.io/blog) · [email](mailto:eunho9684@gmail.com)
