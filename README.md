@@ -5,14 +5,15 @@ I build small apps and tools, then write about what I learned.
 
 ## Projects
 
-**[Bible verse memorization](https://github.com/devRenio/Bible-verse-memorization)**  
-Flutter app for practicing scripture from memory.
-
-**[Personal site](https://github.com/devRenio/devRenio.github.io)**  
-Notes and posts at [devrenio.github.io](https://devrenio.github.io/blog).
-
-**[Contest Crawler](https://github.com/devRenio/Contest-Crawler)**  
-Crawler that collects contest listings.
+<a href="https://github.com/devRenio/Bible-verse-memorization">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=devRenio&repo=Bible-verse-memorization&theme=github_dark&hide_border=true" alt="Bible-verse-memorization" />
+</a>
+<a href="https://github.com/devRenio/devRenio.github.io">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=devRenio&repo=devRenio.github.io&theme=github_dark&hide_border=true" alt="devRenio.github.io" />
+</a>
+<a href="https://github.com/devRenio/Contest-Crawler">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=devRenio&repo=Contest-Crawler&theme=github_dark&hide_border=true" alt="Contest-Crawler" />
+</a>
 
 ## Contact
 
